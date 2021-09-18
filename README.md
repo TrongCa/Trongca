@@ -1,2 +1,2 @@
-# CS434I_Nh-m5
+# CS434I_Nhom5
 Bài tập thực hành số 2 (Bài nhóm)
